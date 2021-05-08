@@ -1,6 +1,6 @@
 Iniciando no mundo Git 
 
-:snake: Python\
+:snake: Monty Python\
 :v::sunglasses: Welcome to the Django!!! :fire:\
 :musical_score: :football:
 
